@@ -1,5 +1,4 @@
-#
-__Logistic Regression__
+# __Logistic Regression__
 
 Exploring Logistic Regression using Scikit-Learn. 
 
