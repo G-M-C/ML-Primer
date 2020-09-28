@@ -1,5 +1,5 @@
 #
-Logistic Regression
+__Logistic Regression__
 
 Exploring Logistic Regression using Scikit-Learn. 
 
