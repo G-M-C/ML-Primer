@@ -1,9 +1,9 @@
 
-Exploring K Nearest Neighbours using Scikit-Learn.
+Exploring Natural Language Processing using Scikit-Learn and nltk.
 
-Notebook 1 : Classification of Anonymous Data
+Notebook 1 : Classification of Messages into spam or not spam (ham). 
 
-Dataset : https://www.kaggle.com/prasun2106/knn-classifier-2/code.
+Dataset : https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 Notebook 2 : Classification of Anonymous Data
 
