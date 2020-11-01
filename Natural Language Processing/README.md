@@ -5,8 +5,8 @@ Notebook 1 : Classification of Messages into spam or not spam (ham).
 
 Dataset : https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
-Notebook 2 : Classification of Anonymous Data
+Notebook 2 : 
 
-Dataset : https://www.kaggle.com/tbyrnes/knn-project-data.
+Dataset : 
 
 Credits : Jose Portilla (Pierian Data) , Python for Data Science & Machine Learning Bootcamp (Udemy).
