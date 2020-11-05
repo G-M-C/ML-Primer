@@ -1,4 +1,4 @@
-Exploring Recommender Systems using the 'corrwith' method of Pandas
+Exploring Recommender Systems using the 'corrwith' method of pandas
 
 Notebook 1 : Movie Recommender
 
