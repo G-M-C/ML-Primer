@@ -1,4 +1,4 @@
-# ML-Primer
+# ML-Prime
 A great place for those looking to get started with Machine Learning
 <pre>
 This repository explores popular ML Algorithms
